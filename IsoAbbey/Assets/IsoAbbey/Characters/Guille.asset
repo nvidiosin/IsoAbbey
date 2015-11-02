@@ -9,8 +9,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe252187c579bc5458136333ca4f0a07, type: 3}
-  m_Name: guillermo
+  m_Name: Guille
   m_EditorClassIdentifier: 
-  realTexture: {fileID: 2800000, guid: 399ed526379c666428044780123fd8be, type: 3}
+  realTexture: {fileID: 2800000, guid: 3b7e19652375f6d4788d3b8bda96d334, type: 3}
   nrows: 4
   ncols: 3
